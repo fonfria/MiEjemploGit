@@ -17,6 +17,7 @@ public class MiEjemploGit {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Mi primer ejemplo Git");
+        System.out.println("Este es una prueba de añadir codigo");
     }
     
 }
